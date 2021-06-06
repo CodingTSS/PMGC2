@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    font-size: 35px;
+    font-family: serif;
+    color: #000000;
+    background-color: background: rgb(0, 252, 255);
+    background: linear-gradient(90deg, rgba(0, 252, 255, 1) 0%, rgba(229, 45, 253, 1) 50%, rgba(252, 69, 69, 1) 100%);
+}
+
+#home {
+    height: 3000px;
+    background: background: rgb(0, 252, 255);
+    background: linear-gradient(90deg, rgba(0, 252, 255, 1) 0%, rgba(229, 45, 253, 1) 50%, rgba(252, 69, 69, 1) 100%);
+}
+
+img {
+    width: 450px;
+    border-style: solid;
+}
+
+.hl {
+    border: solid 3px blue;
+
+}
+
+body {
+    text-align: center;
+    background: rgb(255,239,0);
+background: linear-gradient(0deg, rgba(255,239,0,1) 17%, rgba(0,213,8,1) 49%, rgba(0,243,255,1) 93%);
+}
+
+.ibox {
+    width: 200px;
+    background-color: white;
+    margin-left: 20px;
+}
+
+#firstno {
+    margin-top: 300px;
+}
+
+#secondno {
+    margin-top: 20px;
+}
